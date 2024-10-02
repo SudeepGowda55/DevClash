@@ -18,3 +18,4 @@ Copy code:
 ```
 pip install -r requirements.txt
 ```
+![image](https://github.com/user-attachments/assets/d2b131cc-aa8d-482b-8067-c2e6cfcd79ba)
