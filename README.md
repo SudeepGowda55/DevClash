@@ -1,7 +1,5 @@
 # MediForecast
 
-
-# Disease Prediction App
 This repository contains a Streamlit application for disease prediction using machine learning techniques.
 
 ## Getting Started
